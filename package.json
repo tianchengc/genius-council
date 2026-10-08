@@ -1,0 +1,27 @@
+{
+  "name": "genius-council",
+  "version": "1.0.0",
+  "description": "Multi-mentor cognition sparring, contrarian stress-testing & venture intelligence skill for AI agents",
+  "main": "SKILL.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai-agents",
+    "antigravity",
+    "claude-code",
+    "codex",
+    "cursor",
+    "cognition",
+    "venture-capital",
+    "innovation-toolkit",
+    "creativity",
+    "business-analysis"
+  ],
+  "author": "tianchengc",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tianchengc/genius-council.git"
+  }
+}
